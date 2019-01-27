@@ -4,7 +4,7 @@ clear all
 %addpath('.\npy-matlab-master')
 data = [];
 for f=1:nfiles
-    face_folder = ['F:\matlab\用深度学习进行心梗判定\corp' num2str(f) '/'];
+    face_folder = ['F:\corp' num2str(f) '/'];
     file_ext = '.jpg';
     out_max = 1;    
     out_min = 0;   
