@@ -1,4 +1,4 @@
-# MI-Segmentation V3.1
+# MI-Segmentation Ver3.1
 
 ## Requirements
 This code is written for the Matlab (tested with versions R2014a-2014b) and Python (2.7) interpreter and requires the Matlab Image Processing Toolbox and the Keras.
